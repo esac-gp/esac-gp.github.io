@@ -3,34 +3,29 @@
 
 ### Tópicos 
 
-:small_blue_diamond: [Descrição do grupo de pesquisa](#descrição-do-grupo-de-pesquisa)
+[Descrição do grupo de pesquisa](#descrição-do-grupo-de-pesquisa)
 
-:small_blue_diamond: [Áreas de pesquisa](#areas-de-pesquisa)
+[Áreas de pesquisa](#Áreas-de-pesquisa)
 
-:small_blue_diamond: [Tecnologias](#tecnologias)
+[Tecnologias](#tecnologias)
 
-:small_blue_diamond: [Projetos](#projetos)
+[Projetos](#projetos)
 
-:small_blue_diamond: [Membros](#membros)
+[Membros](#membros)
 
-:small_blue_diamond: [Agenda](#agenda)
+[Agenda](#agenda)
 
-:small_blue_diamond: [Referências bibliográficas](#referências-bibliograficas)
+[Referências bibliográficas](#referências-bibliográficas)
 
-... 
 
 ## Descrição do grupo de pesquisa 
 
 
-## Área de pesquisa
-
-:heavy_check_mark: Funcionalidade 1  
-
-:heavy_check_mark: Funcionalidade 2  
-
-:heavy_check_mark: Funcionalidade 3  
-
-:heavy_check_mark: Funcionalidade 4  
+## Áreas de pesquisa
+  - Sistemas embarcados de tempo real
+  - Inteligência artificial
+  - Banco de dados
+  
 
 ## Tecnologias 
 
@@ -50,7 +45,9 @@
 ...
 
 ## Membros
+  - Professores
 
+  - Alunos
 
 ... 
 
@@ -61,5 +58,4 @@
 
 
 
-
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright ©️ 2025 
