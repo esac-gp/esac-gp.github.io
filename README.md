@@ -1,14 +1,5 @@
-# esac-gp.github.io
-GP-ESAC - Grupo de Pesquisa em Engenharia e Sistemas Aeroespaciais Computacionais
 
-
----
-layout: home
-title: Grupo de Pesquisa em Engenharia Aeroespacial
-subtitle: Inovação, Pesquisa e Desenvolvimento na Fronteira do Espaço
----
-
-# GP-ESAC - Grupo de Pesquisa em Engenharia e Sistemas Aeroespaciais Computacionais
+### GP-ESAC - Grupo de Pesquisa em Engenharia e Sistemas Aeroespaciais Computacionais
 
 Nosso grupo é dedicado ao avanço da ciência e tecnologia aeroespacial, desenvolvendo pesquisas inovadoras, promovendo a formação de recursos humanos qualificados e colaborando com a indústria e instituições nacionais e internacionais.
 
