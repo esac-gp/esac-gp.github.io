@@ -1,32 +1,77 @@
 
 ### GP-ESAC - Grupo de Pesquisa em Engenharia e Sistemas Aeroespaciais Computacionais
 
-Nosso grupo é dedicado ao avanço da ciência e tecnologia aeroespacial, desenvolvendo pesquisas inovadoras, promovendo a formação de recursos humanos qualificados e colaborando com a indústria e instituições nacionais e internacionais.
+h1>GP-ESAC - Grupo de Pesquisa em Engenharia e Sistemas Aeroespaciais Computacionais</h1> 
 
-## Áreas de Atuação
 
-- Propulsão Aeroespacial
-- Aerodinâmica e Mecânica dos Fluidos
-- Estruturas e Materiais Avançados
-- Sistemas de Controle e Navegação
-- Satélites e Veículos Lançadores
+### Tópicos 
 
-## Últimas Notícias
+:small_blue_diamond: [Descrição do grupo de pesquisa](#descrição-grupo-pesquisa)
 
-- **[Título da Notícia 1](#)**  
-  Resumo breve da notícia ou evento relevante do grupo.
+:small_blue_diamond: [Áreas de pesquisa](#area-pesquisa)
 
-- **[Título da Notícia 2](#)**  
-  Outro destaque recente relacionado ao grupo.
+:small_blue_diamond: [Tecnologias](#tecnologias)
 
-## Nossa Equipe
+:small_blue_diamond: [Projetos](#projetos)
 
-Conheça nossos professores, pesquisadores, alunos de graduação e pós-graduação.  
-[Equipe](https://github.com/esac-gp/esac-gp.github.io/blob/main/team.md)
+:small_blue_diamond: [Membros](#membros)
 
-## Contato
+:small_blue_diamond: [Agenda](#agenda)
 
-Entre em contato conosco para colaborações, oportunidades de pesquisa ou dúvidas gerais:  
-- Email: contato@grupoaeroespacial.edu.br
+:small_blue_diamond: [Referências bibliográficas](#referencias-bibliograficas)
 
----
+... 
+
+## Descrição do grupo de pesquisa 
+
+<p align="justify">
+  Descrição breve do projeto compondo um paragrafo ou dois. 
+</p>
+
+## Área de pesquisa
+
+:heavy_check_mark: Funcionalidade 1  
+
+:heavy_check_mark: Funcionalidade 2  
+
+:heavy_check_mark: Funcionalidade 3  
+
+:heavy_check_mark: Funcionalidade 4  
+
+## Tecnologias 
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=PYTHON"/>
+  <img src="http://img.shields.io/static/v1?label=PYTHON&message=3.11&color=blue&style=for-the-badge&logo=python"/>
+</p>
+... 
+
+## Projetos
+
+### Projeto 01
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+</p>
+
+...
+
+## Membros
+
+
+... 
+
+## Agenda
+
+
+## Referências bibliográficas
+
+
+
+### Usuários: 
+
+|name|posição|email||
+| -------- |-------- |-------- |
+|Aluno|aluno|aluno.com|true|
+
+
+Copyright :copyright: Ano - Titulo do Projeto
