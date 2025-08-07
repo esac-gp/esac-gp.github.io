@@ -22,7 +22,7 @@ Nosso grupo é dedicado ao avanço da ciência e tecnologia aeroespacial, desenv
 ## Nossa Equipe
 
 Conheça nossos professores, pesquisadores, alunos de graduação e pós-graduação.  
-[Equipe](team.md)
+[Equipe](https://github.com/esac-gp/esac-gp.github.io/blob/main/team.md)
 
 ## Contato
 
