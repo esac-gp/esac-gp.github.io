@@ -17,6 +17,8 @@
 
 [Referências bibliográficas](#referências-bibliográficas)
 
+[Atas de Reunião](./atas.md)
+
 
 ## Descrição do grupo de pesquisa 
 
