@@ -1,7 +1,5 @@
 
-##### Grupo de Pesquisa em Engenharia e Sistemas Aeroespaciais Computacionais
-##### GP-ESAC
-
+###### Grupo de Pesquisa em Engenharia e Sistemas Aeroespaciais Computacionais
 ### Tópicos 
 
 [Descrição do grupo de pesquisa](#descrição-do-grupo-de-pesquisa)
