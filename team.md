@@ -2,12 +2,6 @@
 ##### __Equipe de Pesquisa__
 ---
 
----
-layout: page
-title: Nossa Equipe
-permalink: /team/
----
-
 # Equipe do Grupo de Pesquisa
 
 ## Professores
