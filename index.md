@@ -56,11 +56,13 @@
 
 ---
   - ### Alunos
+
   | Nome     | Instituição     | Departamento     |
 |-------------|-------------|-------------|
 | [Doutorando Strauss Cunha Carvalho](https://stra-uss.github.io/)  | ITA | PG-CTE-E |
 | [Doutorando Rodrigo Monteiro de Barros Santana](http://lattes.cnpq.br/2093996354767369)  | ITA | PG-CTE-E |
-... 
+
+---
 
 ## Agenda
 
