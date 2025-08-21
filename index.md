@@ -14,10 +14,9 @@
 
 [Agenda](#agenda)
 
-[Referências bibliográficas](#referências-bibliográficas)
-
 [Atas de Reunião](./atas.md)
 
+[Referências bibliográficas](#referências-bibliográficas)
 
 ## Descrição do grupo de pesquisa 
 
@@ -25,7 +24,7 @@
 ## Áreas de pesquisa
   - Sistemas embarcados de tempo real
   - Inteligência artificial
-  - Banco de dados
+  - Big Data
   
 
 ## Tecnologias 
@@ -46,13 +45,28 @@
 ...
 
 ## Membros
-  - Professores
+  - ### Professores:
+  
+  | Nome     | Instituição     | Departamento     |
+|-------------|-------------|-------------|
+| [Prof. Dr. Adilson Marques da Cunha](https://www.comp.ita.br/~cunha/) | ITA | PG-CTE-E/PG-EEC-I |
+| Prof. Dr. Valdivino Alexandre de Santiago Júnior | INPE | LIAREA / COPDT |
+| Dr. Walter Abrahão dos Santos | INPE | COIDS |
 
-  - Alunos
 
+---
+  - ### Alunos
+  | Nome     | Instituição     | Departamento     |
+|-------------|-------------|-------------|
+| [Doutorando Strauss Cunha Carvalho](https://stra-uss.github.io/)  | ITA | PG-CTE-E |
+| [Doutorando Rodrigo Monteiro de Barros Santana](http://lattes.cnpq.br/2093996354767369)  | ITA | PG-CTE-E |
 ... 
 
 ## Agenda
+
+☑️ 📅 18-08-25 ⏰ 15H 📍 INPE
+
+🔲 📅 26-08-25 ⏰ 10H 📍 Online
 
 
 ## Referências bibliográficas
