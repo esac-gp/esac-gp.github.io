@@ -18,6 +18,8 @@
 
 [Referências bibliográficas](#referências-bibliográficas)
 
+[Arquivos Diversos](https://drive.google.com/drive/folders/13Hl7Iv3-r5UK0nvGRyARWiXcL_2oHc-_?usp=drive_link)
+
 ## Descrição do grupo de pesquisa 
 
 
@@ -68,7 +70,7 @@
 
 ☑️ 📅 18-08-25 ⏰ 15H 📍 INPE
 
-🔲 📅 26-08-25 ⏰ 10H 📍 Online
+☑️ 📅 26-08-25 ⏰ 10H 📍 Online
 
 
 ## Referências bibliográficas
