@@ -1,5 +1,10 @@
 
-#### __[GP-ESAC] Grupo de Pesquisa em Engenharia e Sistemas Aeroespaciais Computacionais__
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="./fotos/gp-esac-logo.png" alt="GP-ESAC Logo" style="max-width: 300px; margin-bottom: 20px;">
+  <h1 style="margin: 0; font-size: 24px;">GP-ESAC</h1>
+  <h2 style="margin: 10px 0; font-size: 20px;">Grupo de Pesquisa em Engenharia e Sistemas Aeroespaciais Computacionais</h2>
+</div>
+
 ---
 
 [Descrição do grupo de pesquisa](#descrição-do-grupo-de-pesquisa)
@@ -12,9 +17,11 @@
 
 [Membros](#membros)
 
-[Agenda](#agenda)
+[Reuniões](#reuniões)
 
 [Atas de Reunião](./atas.md)
+
+[TO DO](https://docs.google.com/spreadsheets/d/14puzPF4NOpx21pFEJo6Ad3l3oWPu3eKl51LHOpfGGWI/edit?usp=sharing)
 
 [Referências bibliográficas](#referências-bibliográficas)
 
@@ -135,6 +142,7 @@ O grupo reúne __professores doutores__ do ITA, __pesquisadores sênior__ do INP
 
 ## Referências bibliográficas
 
+SCANNAVINO, K. R. F. et al. Revisão Sistemática da Literatura em Engenharia de Software: teoria e prática. Rio de Janeiro: Elsevier, 2017.
 
 
 Copyright ©️ 2025 
