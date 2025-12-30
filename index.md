@@ -102,8 +102,8 @@ O grupo reúne __professores doutores__ do ITA, __pesquisadores sênior__ do INP
 </div>
 
 <div style="border: 2px solid #e1e5e9; border-radius: 15px; padding: 20px; text-align: center; width: 280px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <img src="./fotos/fg.jpeg" alt="Prof. Dr. Fabricio Galende Marques de Carvarlho" style="width: 120px; height: 120px; border-radius: 50%; margin-bottom: 15px; border: 3px solid #e74c3c; object-fit: cover;">
-  <h4 style="margin: 10px 0; color: #2c3e50;">Prof. Dr. Fabricio Galende Marques de Carvarlho</h4>
+  <img src="./fotos/fg.jpeg" alt="Prof. Dr. Fabricio Galende Marques de Carvalho" style="width: 120px; height: 120px; border-radius: 50%; margin-bottom: 15px; border: 3px solid #e74c3c; object-fit: cover;">
+  <h4 style="margin: 10px 0; color: #2c3e50;">Prof. Dr. Fabricio Galende Marques de Carvalho</h4>
   <p style="margin: 5px 0; color: #7f8c8d; font-weight: bold;">Instituto Nacional de Pesquisas Espaciais (INPE)</p>
   <p style="margin: 5px 0; color: #34495e; font-size: 14px;">Programa Queimadas</p>
 </div>
