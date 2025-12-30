@@ -54,9 +54,9 @@ O grupo reúne __professores doutores__ do ITA, __pesquisadores sênior__ do INP
 
 
 ## Áreas de pesquisa
-  - Sistemas embarcados de tempo real
   - Inteligência artificial
   - Big Data
+  - Sistemas embarcados de tempo real
   - Sensoriamento Remoto
   
 
@@ -75,7 +75,7 @@ O grupo reúne __professores doutores__ do ITA, __pesquisadores sênior__ do INP
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20ANALISE&color=RED&style=for-the-badge"/>
 </p>
 
-### Projeto Detecção de Focos de Incêndio
+### Projeto Classificação e Previsão de Propagação de Fogo
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20ANALISE&color=RED&style=for-the-badge"/>
 </p>
@@ -99,6 +99,13 @@ O grupo reúne __professores doutores__ do ITA, __pesquisadores sênior__ do INP
   <h4 style="margin: 10px 0; color: #2c3e50;">Prof. Dr. Valdivino Alexandre de Santiago Júnior</h4>
   <p style="margin: 5px 0; color: #7f8c8d; font-weight: bold;">Instituto Nacional de Pesquisas Espaciais (INPE)</p>
   <p style="margin: 5px 0; color: #34495e; font-size: 14px;">LIAREA / COPDT</p>
+</div>
+
+<div style="border: 2px solid #e1e5e9; border-radius: 15px; padding: 20px; text-align: center; width: 280px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="./fotos/fg.jpeg" alt="Prof. Dr. Fabricio Galende Marques de Carvarlho" style="width: 120px; height: 120px; border-radius: 50%; margin-bottom: 15px; border: 3px solid #e74c3c; object-fit: cover;">
+  <h4 style="margin: 10px 0; color: #2c3e50;">Prof. Dr. Fabricio Galende Marques de Carvarlho</h4>
+  <p style="margin: 5px 0; color: #7f8c8d; font-weight: bold;">Instituto Nacional de Pesquisas Espaciais (INPE)</p>
+  <p style="margin: 5px 0; color: #34495e; font-size: 14px;">Programa Queimadas</p>
 </div>
 
 <div style="border: 2px solid #e1e5e9; border-radius: 15px; padding: 20px; text-align: center; width: 280px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
@@ -138,6 +145,10 @@ O grupo reúne __professores doutores__ do ITA, __pesquisadores sênior__ do INP
 ☑️ 📅 18-08-25 ⏰ 15H 📍 INPE
 
 ☑️ 📅 26-08-25 ⏰ 10H 📍 Online
+
+☑️ 📅 14-10-25 ⏰ 15H 📍 INPE
+
+☑️ 📅 18-12-25 ⏰ 14H 📍 INPE
 
 
 ## Referências bibliográficas
